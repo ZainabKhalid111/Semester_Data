@@ -1,0 +1,1 @@
+"t1_led.a51" SET (SMALL) DEBUG PRINT(.\Listings\t1_led.lst) OBJECT(.\Objects\t1_led.obj) EP

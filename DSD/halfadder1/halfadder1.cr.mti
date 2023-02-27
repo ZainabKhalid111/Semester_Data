@@ -1,0 +1,15 @@
+{E:/Semester 6/DSD/halfadder1/HA.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder1/HA.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module HA
+
+Top level modules:
+	HA
+
+} {} {}} {E:/Semester 6/DSD/halfadder1/HA1.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder1/HA1.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module HA1
+
+Top level modules:
+	HA1
+
+} {} {}}

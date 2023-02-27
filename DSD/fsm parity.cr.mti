@@ -1,0 +1,17 @@
+{E:/Semester 6/DSD/parity_det.v} {1 {vlog -work work {E:/Semester 6/DSD/parity_det.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module parity_det
+-- Compiling module tst_parity_det
+
+Top level modules:
+	tst_parity_det
+
+} {} {}} {E:/Semester 6/DSD/parity_det1.v} {1 {vlog -work work {E:/Semester 6/DSD/parity_det1.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module parity_det_1always
+-- Compiling module tst_parity_det1
+
+Top level modules:
+	tst_parity_det1
+
+} {} {}}

@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\task3 MBSD.obj" 
+TO ".\Objects\mbsd t3" 
+PRINT(".\Listings\mbsd t3.m51")

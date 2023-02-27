@@ -1,0 +1,68 @@
+C:/Users/Dell/Downloads/Problem_02_ALL_in_One.v {1 {vlog -work work C:/Users/Dell/Downloads/Problem_02_ALL_in_One.v
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module RAM1
+-- Compiling module RAM2
+-- Compiling module top_for_task_02
+
+Top level modules:
+	top_for_task_02
+
+} {} {}} {C:/Users/Dell/Downloads/Problem_01_ALL_in_One (1).v} {1 {vlog -work work {C:/Users/Dell/Downloads/Problem_01_ALL_in_One (1).v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Decoder
+-- Compiling module RAM1
+-- Compiling module RAM2
+-- Compiling module Problem_01
+WARNING: C:/Users/Dell/Downloads/Problem_01_ALL_in_One (1).v(114): [RDGN] - Redundant digits in numeric literal
+
+Top level modules:
+	Problem_01
+
+} {7.0 8.0} {}} {E:/Semester 6/DSD/ram1.v} {1 {vlog -work work {E:/Semester 6/DSD/ram1.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Decoder
+-- Compiling module RAM1
+-- Compiling module RAM2
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {C:/Users/Dell/Downloads/Problem_02_ALL_in_One (1).v} {1 {vlog -work work {C:/Users/Dell/Downloads/Problem_02_ALL_in_One (1).v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module RAM1
+-- Compiling module RAM2
+-- Compiling module top_for_task_02
+
+Top level modules:
+	top_for_task_02
+
+} {} {}} C:/Users/Dell/Downloads/Problem_01_ALL_in_One.v {1 {vlog -work work C:/Users/Dell/Downloads/Problem_01_ALL_in_One.v
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Decoder
+-- Compiling module RAM1
+-- Compiling module RAM2
+-- Compiling module top_for_task_01
+
+Top level modules:
+	top_for_task_01
+
+} {} {}} {E:/Semester 6/DSD/ram2.v} {0 {vlog -work work {E:/Semester 6/DSD/ram2.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module RAM1
+** Error: E:/Semester 6/DSD/ram2.v(10): near ";": syntax error
+** Error: E:/Semester 6/DSD/ram2.v(29): near ";": syntax error
+** Error: E:/Semester 6/DSD/ram2.v(42): near "input":  expecting: ';'
+** Error: E:/Semester 6/DSD/ram2.v(54): near "end":  expecting: IDENT
+** Error: E:/Semester 6/DSD/ram2.v(116): near "always":  expecting: ',' ';'
+
+} {4.0 9.0} {}} {E:/Semester 6/DSD/1743 problem2.v} {1 {vlog -work work {E:/Semester 6/DSD/1743 problem2.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module RAM1
+-- Compiling module RAM2
+-- Compiling module top_for_task_02
+
+Top level modules:
+	top_for_task_02
+
+} {} {}}

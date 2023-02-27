@@ -1,0 +1,5 @@
+".\Objects\STARTUP.obj",
+".\Objects\delayusing_timers.obj",
+".\Objects\Timers.obj" 
+TO ".\Objects\lab6" 
+PRINT(".\Listings\lab6.m51")

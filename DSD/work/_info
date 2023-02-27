@@ -1,0 +1,884 @@
+m255
+cModel Technology
+dE:\Semester 6\DSD\halfadder1
+vADD16
+I3Kdf[j^`z]g@LD15afDk_2
+VW8A5C4h9a6ce4hmA7nIQ03
+dE:\Semester 6\DSD
+w1652323705
+FE:/Semester 6/DSD/half adder.v
+L0 64
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@a@d@d16
+vBCD
+IjGoQQMh3j1HColDf90E6^3
+VL4E5DcFAMI<h>Em4OnljH1
+dE:\Semester 6\DSD
+w1650574772
+FC:/Users/Dell/Downloads/BCD.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@b@c@d
+vBCD_test
+IQF>D:fK3lQ4zdi`QHz9=O3
+VP8VUH>7nTTPcK5WDb;^Gg2
+dE:\Semester 6\DSD
+w1650574768
+FC:/Users/Dell/Downloads/BCD_test.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@b@c@d_test
+vBCD_top_level
+I<6;DmRgSmPn43f55A9<332
+VTT82ZAbH6F8QdEWg?@A<=3
+dE:\Semester 6\DSD
+w1650574776
+FC:/Users/Dell/Downloads/BCD_top_level.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@b@c@d_top_level
+vcounter_dn
+I?J8d<UBVf59TGhglKi1Z00
+VYjaNlolY_X?^JHZliNFXl1
+dE:\Semester 6\DSD
+w1649953567
+FE:/Semester 6/DSD/syn down counter/counter_dn.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vcounter_up
+IQee2;SBb>QYA`0Yfz=NCU3
+V1<7jE8^HgdI5VST<UCkgj1
+dE:\Semester 6\DSD
+w1649953319
+FE:/Semester 6/DSD/syn neg edge/counter_up.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vD_FF
+IJeN1DK6Hbz2_UhAc6X_z[0
+VoA7?97_PL7ic_UWaFCaS02
+dE:\Semester 6\DSD
+w1649952870
+FE:/Semester 6/DSD/asyn ripple up counter/D_FF.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@d_@f@f
+vDec_24
+IW7dA@8IGPC]`Y9EggWCR:2
+ViJa?a;@_:AFCONI4Rze:b1
+dE:\Semester 6\DSD
+w1653322559
+FE:/Semester 6/DSD/ROM 24X8.v
+L0 98
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@dec_24
+vDecoder
+I]OL[9b7?zM<Uj@]d24z0g2
+VP[hazD8l2aF^O<gdUm3DZ0
+dE:\Semester 6\DSD
+w1651486196
+FC:/Users/Dell/Downloads/Problem_01_ALL_in_One.v
+L0 2
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@decoder
+velectLock
+IG5XEWgZ[cbZj>1:DbGmj=0
+V4cK1jHRdhz^:zmbc@7c0k1
+dE:\Semester 6\DSD
+w1656091118
+FE:/Semester 6/DSD/lock_lock.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+nelect@lock
+velectlocktest
+I_PcmZjVdWz53Bb9T;oIgR2
+V=^AP2L2_[:MHXX]d4=l^G3
+dE:\Semester 6\DSD
+w1656091118
+FE:/Semester 6/DSD/lock_lock.v
+L0 55
+OE;L;5.7f;17
+r1
+31
+o-work work
+velectric_lock
+I;gSWHfVW2?NHoWEckVniD0
+V5E0=@BVBUkfLA]9jWa;c;3
+dE:\Semester 6\DSD
+w1656092734
+FE:/Semester 6/DSD/electronic_lock.v
+L0 2
+OE;L;5.7f;17
+r1
+31
+o-work work
+vfsm_lock_mealys
+ISP5bOXI8igQoJR2`l1[Yb3
+V_:8>?K@MaSEcAMiimg9iM3
+dE:\Semester 6\DSD
+w1656097441
+FE:/Semester 6/DSD/homework_4.v
+L0 4
+OE;L;5.7f;17
+r1
+31
+o-work work
+vfsm_two1s_moore1
+IN`VXzlH38_OogBL7RR;@<2
+VEnB0AV[;HZHKIgHizh07L2
+dE:\Semester 6\DSD
+w1655753411
+FE:/Semester 6/DSD/moors 1.v
+L0 3
+OE;L;5.7f;17
+r1
+31
+o-work work
+vfulladd
+ISD]:22iB4377T;f>DkHJ12
+VBn`dWiH[0V=L]zQkKh2fe3
+dE:\Semester 6\DSD
+w1652323705
+FE:/Semester 6/DSD/half adder.v
+L0 8
+OE;L;5.7f;17
+r1
+31
+o-work work
+vfulladder
+Io]Xe709dM6HC5<FXlbYMb0
+VDzZ7G4d;1oiJNUiVL=`c03
+dE:\Semester 6\DSD
+w1650564180
+FE:/Semester 6/DSD/task1.v
+L0 11
+OE;L;5.7f;17
+r1
+31
+o-work work
+vhalfadd
+IGBKKGN=Il`CXN>;a71<eb1
+VeHemb8lLLJ2D]kUXUY`E50
+dE:\Semester 6\DSD
+w1652323705
+FE:/Semester 6/DSD/half adder.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vhalfadder
+I0P<iO`_jm_9g99;B5HdFI3
+Vb=9gh3eC2cP=ji^aK4LHJ1
+dE:\Semester 6\DSD
+w1650564180
+FE:/Semester 6/DSD/task1.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vJohnson_Counter
+IFF<Q29>0^oO8jQXmGQPZi3
+V2AM:fVizW6dz^TSkWYa_b3
+dE:\Semester 6\DSD
+w1650403830
+FC:/Users/Dell/Downloads/Johnson_Counter.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@johnson_@counter
+vmux21
+IlnWb_]g6iU]PFE`=co?K]3
+V2ZmYb;>[mK=g>L2W@iGhi0
+dE:\Semester 6\DSD
+w1649952685
+FE:/Semester 6/DSD/muxes/4x1 using 2x1/mux21.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vmux2x1
+I722<<daja5K7km37`O7781
+Vm@[ZPC:QBCMfN4GQBS=RL1
+dE:\Semester 6\DSD
+w1651926768
+FE:/Semester 6/DSD/mux.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vmux41
+I:kUUQXN2B2d21:hQc=n213
+V^7P[2`f@Td2kkS=[1SGbd3
+dE:\Semester 6\DSD
+w1649952720
+FE:/Semester 6/DSD/muxes/4x1 using 2x1/mux41.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vmux4using2
+IUQ4^P7o3^8cA:56L]0X7S2
+VBSYoOWAG`d?jljgQ6L@n>2
+dE:\Semester 6\DSD
+w1651926768
+FE:/Semester 6/DSD/mux.v
+L0 30
+OE;L;5.7f;17
+r1
+31
+o-work work
+vmux4x1
+I2F<Tkb1Nim@bb<XXfj9^80
+VmgeT<4aK[]S79i@[D>;ik3
+dE:\Semester 6\DSD
+w1651926768
+FE:/Semester 6/DSD/mux.v
+L0 14
+OE;L;5.7f;17
+r1
+31
+o-work work
+vmux8x1
+IhZYXAo7Ti0OBe<mjASIdT2
+VK9CFoD7N8V^3IS@i76XB[0
+dE:\Semester 6\DSD
+w1651926768
+FE:/Semester 6/DSD/mux.v
+L0 59
+OE;L;5.7f;17
+r1
+31
+o-work work
+vparity_det
+IYbD5Vazj>6O@g@1G2_S^h1
+VJgCWTzc[Hb9O_Lzm`PWDc0
+dE:\Semester 6\DSD
+w1654526550
+FE:/Semester 6/DSD/parity_det.v
+L0 2
+OE;L;5.7f;17
+r1
+31
+o-work work
+vparity_det_1always
+IdkUU]cCK2^69L?gPi]d322
+VnF4DMW_6cNUFh8fnIZOZL2
+dE:\Semester 6\DSD
+w1654526633
+FE:/Semester 6/DSD/parity_det1.v
+L0 2
+OE;L;5.7f;17
+r1
+31
+o-work work
+vProblem_01
+IB0onfcP?aKf?Q[2O5gBHG0
+VdHec^?lX3nYVlB2CVL;im0
+dE:\Semester 6\DSD
+w1651487338
+FE:/Semester 6/DSD/1743 problem1.v
+L0 68
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@problem_01
+vRAM1
+IP0LcCWiHzWzj0[9iAloI11
+VF4W=P^53AeAl9TNC9:JPG2
+dE:\Semester 6\DSD
+w1651486196
+FC:/Users/Dell/Downloads/Problem_01_ALL_in_One.v
+L0 28
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@a@m1
+vRAM2
+IZkU]4d58lfIWiY`lT6`P=3
+VGGWdLblP>o1b`:l^Y3h3Z0
+dE:\Semester 6\DSD
+w1651486196
+FC:/Users/Dell/Downloads/Problem_01_ALL_in_One.v
+L0 48
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@a@m2
+vRAM_16x8_ex1
+I=Ij25INIJTo>NYNjdghAY1
+VVzi[G<GIcF3iU_^cKQ6PU3
+dE:\Semester 6\DSD
+w1650955314
+FE:/Semester 6/DSD/ram16x8.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@a@m_16x8_ex1
+vRAM_16x8_ex1_testbench
+I0NdU6;dPV_ST@51oYo6H02
+VV3l5Ei`TKTVDAngI=OfFV1
+dE:\Semester 6\DSD
+w1650955362
+FE:/Semester 6/DSD/ram_test.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@a@m_16x8_ex1_testbench
+vrc
+IeYA43ZYnWGzb;BlIbgMGm0
+VZk3lj=@g@2IHD3CTH]nJ30
+dE:\Semester 6\DSD
+w1650306974
+FE:/Semester 6/DSD/ring counter using shift opr/rc.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vripple_counter
+I49Fz;HBUAIMhFd`N9JZ[00
+VRj<YJY6EdbBIH>_1O6>@L3
+dE:\Semester 6\DSD
+w1649952883
+FE:/Semester 6/DSD/asyn ripple up counter/ripple_counter.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vrippleadder
+I[bdVHYeO<D9g3[JEHY`UY2
+V=`EiZVBHaQNbI[lz7m=6L1
+dE:\Semester 6\DSD
+w1652323705
+FE:/Semester 6/DSD/half adder.v
+L0 17
+OE;L;5.7f;17
+r1
+31
+o-work work
+vROM1_8x8
+I8e^O7VLAAM4OeeC:C7dcb2
+VS^T?K2I;;>=LjgEEGlPQ:0
+dE:\Semester 6\DSD
+w1653322559
+FE:/Semester 6/DSD/ROM 24X8.v
+L0 22
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@o@m1_8x8
+vROM2_8x8
+Ib;WJ74@k6UR5laB275<Ke1
+VB:oBoANKHeZ?OAB=5ndej1
+dE:\Semester 6\DSD
+w1653322559
+FE:/Semester 6/DSD/ROM 24X8.v
+L0 48
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@o@m2_8x8
+vROM3_8x8
+I]2RE0PZ7a5LBF^e>iVGdR1
+V9^iOOABKX<eLnJH;zQ:Pg3
+dE:\Semester 6\DSD
+w1653322559
+FE:/Semester 6/DSD/ROM 24X8.v
+L0 73
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@o@m3_8x8
+vROM4_8x8
+IYjf8mAZ7<zKiBTUSNcgU=3
+VMK^F6iQg^g[60`T0?^O_42
+dE:\Semester 6\DSD
+w1653315540
+FE:/Semester 6/DSD/ROM 32X8 .v
+L0 108
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@o@m4_8x8
+vROM_16x8
+I<`556?@D[g;=[Q;W:QOB]0
+VebZ6cUNLSocNC6Al>[6il2
+dE:\Semester 6\DSD
+w1653315527
+FE:/Semester 6/DSD/ROM 16X8.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@o@m_16x8
+vROM_24x8
+IQiR8<HkLf0<61Y;^n?NUH1
+VkB1K^z]9]SeZe1HmD7Sjl0
+dE:\Semester 6\DSD
+w1653322559
+FE:/Semester 6/DSD/ROM 24X8.v
+L0 2
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@o@m_24x8
+vROM_32x8
+IV@LK5lg01I[Mb>PC=PlQ>0
+V?7;6j2@kc=TV:_W0Pm;A92
+dE:\Semester 6\DSD
+w1653315540
+FE:/Semester 6/DSD/ROM 32X8 .v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@o@m_32x8
+vROM_v1
+Ia^G57hS@_GJI_AfMAXd9<0
+VI^lVAl?;f0<_3?43llkiO3
+dE:\Semester 6\DSD
+w1653315537
+FE:/Semester 6/DSD/ROM 8x8.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@o@m_v1
+vROM_v2
+I<a]Hc7OzKa8g<ihB1UXK00
+Vmc1Z7@lN=?oU]bHKgIb:Z1
+dE:\Semester 6\DSD
+w1653315537
+FE:/Semester 6/DSD/ROM 8x8.v
+L0 49
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@o@m_v2
+vstimulus
+IeU`HmPCQiON:^F@ZhlZgL1
+VH^bWAl3PO5;BMkL=>=zdC3
+dE:\Semester 6\DSD
+w1649953150
+FE:/Semester 6/DSD/asyn ripple down counter/stimulus.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vT_FF
+Ie?BoiSU1LdfDY_onSKhP72
+Vl1m7>LQ?g=1BQb9iHA=Jd1
+dE:\Semester 6\DSD
+w1649953176
+FE:/Semester 6/DSD/asyn ripple down counter/T_FF.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@t_@f@f
+vtest_bench
+I32CaWMzFPfKlL?zm0mOCi0
+VEJNK5ZO7TWUP1egUA9^TR1
+dE:\Semester 6\DSD
+w1652323705
+FE:/Semester 6/DSD/half adder.v
+L0 28
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtest_Johnson
+I=n2k<W>ild3ScbhG7TFWC1
+VE^J>=]50?WXJdlAWMPKn=2
+dE:\Semester 6\DSD
+w1650402436
+FC:/Users/Dell/Downloads/test_Johnson.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntest_@johnson
+vtest_mux
+IOBBjQ:1QEV6;H]Fc<PiAm0
+V9Z7k28@?UK1@UkBEWCVel1
+dE:\Semester 6\DSD
+w1651926768
+FE:/Semester 6/DSD/mux.v
+L0 75
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtest_mux21
+I_0;o9Wg:f49?dkFhd8JYo0
+VAjQ0l[b__?`?9TjE]A0@L3
+dE:\Semester 6\DSD
+w1649952374
+FE:/Semester 6/DSD/muxes/2x1/test_mux21.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtest_mux41
+IA7APolZ5Sg:?BiB=Xf6_;2
+VL2Ec`WN1`K1Ehg9Ac^G:93
+dE:\Semester 6\DSD
+w1649952726
+FE:/Semester 6/DSD/muxes/4x1 using 2x1/test_mux41.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtest_rc
+I5DN>ZH;Hb?15h7>Cb3U962
+V`I`BYa89OZjaX0m1Z4?AY3
+dE:\Semester 6\DSD
+w1650306986
+FE:/Semester 6/DSD/ring counter using shift opr/test_rc.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vthree_BCD
+IB8NEeJ2bQX3>7FzIZMcHo1
+VnhT0[]MKn6l9Mbg9iZA0V2
+dE:\Semester 6\DSD
+w1650574780
+FC:/Users/Dell/Downloads/three_BCD.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+nthree_@b@c@d
+vthree_BCD_test
+IPk?bXae[gVWASVce@jF4I1
+VUCUebU2l^?Ej]4<ojZ2891
+dE:\Semester 6\DSD
+w1650574786
+FC:/Users/Dell/Downloads/three_BCD_test.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+nthree_@b@c@d_test
+vthree_BCD_top_level
+I8a`>789FEWe;]cVH:nH@30
+VkPc@9H^k;@Y:SFWXYI=i=1
+dE:\Semester 6\DSD
+w1650574789
+FC:/Users/Dell/Downloads/three_BCD_top_level.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+nthree_@b@c@d_top_level
+vtop
+IZPdfLh9zORB^5YL]cF0jk1
+Ve:gFW1CKLAXc^T:7k2HoD1
+dE:\Semester 6\DSD
+w1651427015
+FE:/Semester 6/DSD/ram1.v
+L0 69
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtop_counter
+InG8LmWH<@YFSIn`SFe@=J1
+VN8RUh_]K>2C<cPY;dZ6O;1
+dE:\Semester 6\DSD
+w1649953325
+FE:/Semester 6/DSD/syn neg edge/top_counter.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtop_for_task_01
+Iaalm`^Gl3ChQU:5<gooOK3
+VlUWIk3m[iEW6<`SNgKAc?2
+dE:\Semester 6\DSD
+w1651486196
+FC:/Users/Dell/Downloads/Problem_01_ALL_in_One.v
+L0 70
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtop_for_task_02
+I6CzZXbIk2Co`WkhQV2gUC0
+V?O3ncZ?C0X0nj@GnOLQlJ3
+dE:\Semester 6\DSD
+w1651430405
+FC:/Users/Dell/Downloads/Problem_02_ALL_in_One.v
+L0 44
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtop_Johnson
+In6Q>JRQVKe_];649UcBA?1
+VYV9L206`Um?e8L@Ma:H]D2
+dE:\Semester 6\DSD
+w1650402434
+FC:/Users/Dell/Downloads/top_Johnson.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntop_@johnson
+vtop_l
+IkaYJ9ASSz?@o8lYZ76_fD2
+VY^b>d2Lc]9X:YKZDb<JD`1
+dE:\Semester 6\DSD
+w1649952737
+FE:/Semester 6/DSD/muxes/4x1 using 2x1/top_l.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtop_level
+I2LQ;T089Lz_@T;9]_OUXo1
+Vf[;bP9MLLe[?SX7_4Ff5c0
+dE:\Semester 6\DSD
+w1649952388
+FE:/Semester 6/DSD/muxes/2x1/top_level.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtop_mux
+IfVYSE@I[KaBC5C2DaibQ^3
+VdPZ2:zcL1W3957nMcRDA@2
+dE:\Semester 6\DSD
+w1651926768
+FE:/Semester 6/DSD/mux.v
+L0 94
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtop_mux4from2
+ITF>5^3i5PjP8CiK7BC5aG0
+VZLm6EF]4d<h]C1lFj9aUR0
+dE:\Semester 6\DSD
+w1651926768
+FE:/Semester 6/DSD/mux.v
+L0 40
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtop_rc
+I?F;Vgo=MUWj;^lhTNUh;R1
+Vc8k<SLTlW<]`2FS5E_S5l3
+dE:\Semester 6\DSD
+w1650306990
+FE:/Semester 6/DSD/ring counter using shift opr/top_rc.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtraffic_lights1
+Ik1TnHP3KC3f]GCS`V26HG1
+V`3]:bJa1cJLF[M96g9[WP1
+dE:\Semester 6\DSD
+w1655751169
+FE:/Semester 6/DSD/traf_light1.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtst_fsm_lock
+IoYXS4E`VLWRQOll_GKL:D2
+VTZk06[jS=^DlHZ7^onaI83
+dE:\Semester 6\DSD
+w1656097441
+FE:/Semester 6/DSD/homework_4.v
+L0 53
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtst_fsm_moore
+I>nn?mP;:]iE?X1?T5L]k>0
+VP0RZgZO<DQLM`^Y99o3KR2
+dE:\Semester 6\DSD
+w1655977964
+FE:/Semester 6/DSD/moors 2.v
+L0 28
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtst_lock
+I;_zHABQRn]NE11;LP7Rah0
+Vc4^iTWb18MV[jKUi[@GJF3
+dE:\Semester 6\DSD
+w1656092734
+FE:/Semester 6/DSD/electronic_lock.v
+L0 96
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtst_parity_det
+IQE8zLj?e4On08e<6LIzhB3
+V_;N59]B?@GZiX985G5TX:2
+dE:\Semester 6\DSD
+w1654526550
+FE:/Semester 6/DSD/parity_det.v
+L0 25
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtst_parity_det1
+IA5NLWgS^VVWecTH>mFz3=0
+VAK>OHL3SCJ2aR<30KYc4>1
+dE:\Semester 6\DSD
+w1654526633
+FE:/Semester 6/DSD/parity_det1.v
+L0 30
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtst_ROM_16x8
+I4jKb9U9[5Gig2kKRLOTjJ2
+VSoagA]=4Fj=5joNR=5O5R0
+dE:\Semester 6\DSD
+w1653315527
+FE:/Semester 6/DSD/ROM 16X8.v
+L0 70
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntst_@r@o@m_16x8
+vtst_ROM_24x8
+IAN5Th@`lFjbkgTzL13WOm1
+VX[Sco83D:]6mSK3KhEg8J0
+dE:\Semester 6\DSD
+w1653322559
+FE:/Semester 6/DSD/ROM 24X8.v
+L0 110
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntst_@r@o@m_24x8
+vtst_ROM_32x8
+ID9M[[V8W[55hHzXb^0aF33
+V;8i=km8z98LBYNmkI_<;Q3
+dE:\Semester 6\DSD
+w1653315540
+FE:/Semester 6/DSD/ROM 32X8 .v
+L0 134
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntst_@r@o@m_32x8
+vtst_ROM_v1
+I_QHmgUn2J<T0bDdi453]Q3
+VS4>a8DLoTz`1ejZL=PMg[2
+dE:\Semester 6\DSD
+w1653315537
+FE:/Semester 6/DSD/ROM 8x8.v
+L0 26
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntst_@r@o@m_v1
+vtst_ROM_v2
+IfK26`3P:7Sl64aC=V5gJ;1
+Vd5NVDYQKH3:g8AFnPN7740
+dE:\Semester 6\DSD
+w1653315537
+FE:/Semester 6/DSD/ROM 8x8.v
+L0 74
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntst_@r@o@m_v2
+vtst_traffic_lights1
+I0;VkK:BHYnI7?TFOXzgoM1
+VAcjEL:j=n=TmTh^S^><Wk1
+dE:\Semester 6\DSD
+w1655751169
+FE:/Semester 6/DSD/traf_light1.v
+L0 36
+OE;L;5.7f;17
+r1
+31
+o-work work

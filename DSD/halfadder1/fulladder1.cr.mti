@@ -1,0 +1,36 @@
+{E:/Semester 6/DSD/full adder1/SUM.v} {1 {vlog -work work {E:/Semester 6/DSD/full adder1/SUM.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module SUM
+
+Top level modules:
+	SUM
+
+} {} {}} {E:/Semester 6/DSD/full adder1/CARRY.v} {1 {vlog -work work {E:/Semester 6/DSD/full adder1/CARRY.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module CARRY
+
+Top level modules:
+	CARRY
+
+} {} {}} {E:/Semester 6/DSD/full adder1/test_FA.v} {1 {vlog -work work {E:/Semester 6/DSD/full adder1/test_FA.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module test_FA
+
+Top level modules:
+	test_FA
+
+} {} {}} {E:/Semester 6/DSD/full adder1/HA2.v} {1 {vlog -work work {E:/Semester 6/DSD/full adder1/HA2.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module HA2
+
+Top level modules:
+	HA2
+
+} {} {}} {E:/Semester 6/DSD/full adder1/FA.v} {1 {vlog -work work {E:/Semester 6/DSD/full adder1/FA.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}}

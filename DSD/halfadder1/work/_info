@@ -1,0 +1,396 @@
+m255
+cModel Technology
+dE:\Semester 6\DSD\halfadder1
+vCARRY
+IRYR6MfB@oK4MH5Vn>4gPS3
+VTF;7SjaQ0>1iF=kLoOL]60
+w1648836848
+FE:/Semester 6/DSD/halfadder1/rippleadder.v
+L0 9
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@c@a@r@r@y
+vcombine
+I6]VHeLf^VS4[YicQjT@K<1
+VI^GaHgLTbXDZmM[@2RIQL3
+w1650401685
+FE:/Semester 6/DSD/halfadder1/combine_1743.v
+L0 2
+OE;L;5.7f;17
+r1
+31
+o-work work
+vcombine_test
+IIZFGE_WY3B9kUK[DglP773
+VYV8U_VNRa8[f`8LCd7GV:0
+w1650401106
+FE:/Semester 6/DSD/halfadder1/Top_test_1743.v
+L0 2
+OE;L;5.7f;17
+r1
+31
+o-work work
+vDec_4x16
+IgPRC`@3EPlP]MjaB^WT[b1
+VSXJAM3daNUfc1amYQojfD0
+w1650401218
+FE:/Semester 6/DSD/halfadder1/Dec_4x16_1743.v
+L0 2
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@dec_4x16
+vDFF
+IO5n]T@8YmS@4CAQI;4Da]1
+V7ec_e@Y5=>:n1Eo4XMV723
+w1650397272
+FE:/Semester 6/DSD/halfadder1/DFF_1743.v
+L0 2
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@d@f@f
+vFA
+IF^Gcjb`AeYZTCd=_E1QKX0
+VkR[PDAi<<W@Xk<6AKOZ0F0
+w1648293367
+FE:/Semester 6/DSD/full adder1/FA.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@f@a
+vFA1
+IUVaLgZ0e[8<80bYZQ;DAN1
+VH2_bbMdSH05hPeF_S_AeX3
+w1648836848
+FE:/Semester 6/DSD/halfadder1/rippleadder.v
+L0 16
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@f@a1
+vfull_adder
+I2gNN1T8hdJYd9Q@1VKVQn0
+VNgMg]>@8oH^NnFUiAhT5e1
+w1648840764
+FE:/Semester 6/DSD/halfadder1/fulladder.v
+L0 8
+OE;L;5.7f;17
+r1
+31
+o-work work
+vfulladder
+I]6kjPlPH67zc:O<3zkLIM1
+V`nAm8^JaQ0A6S[a^Cb_Sl0
+w1648738734
+FE:/Semester 6/DSD/halfadder1/4bitadder.v
+L0 21
+OE;L;5.7f;17
+r1
+31
+o-work work
+vHA
+IZ^]TWmHDXhhQz]7W8Tic82
+VjJSVJTeWS]gCY8H_olTTW3
+w1648293209
+FE:/Semester 6/DSD/halfadder1/HA.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@h@a
+vHA1
+I^[@=Hc_l:=`U5NkEoiJ2V2
+VYmo^zUhG[97QEN]PGYi[S2
+w1648293229
+FE:/Semester 6/DSD/halfadder1/HA1.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@h@a1
+vHA2
+IH^5=9J48H_N?K>bb>?O^c1
+VeObF=QlFG2_3XoSYed68c3
+w1648293374
+FE:/Semester 6/DSD/full adder1/HA2.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@h@a2
+vhalf_adder
+I8F<l]@n2610ZIibSOn]2O3
+VnLEmTaLC1Ubam?0N0hP^`1
+w1648840764
+FE:/Semester 6/DSD/halfadder1/fulladder.v
+L0 2
+OE;L;5.7f;17
+r1
+31
+o-work work
+vhalfadder1
+IZ57`ZVznzkIO>IMF:n<[31
+V00emLBQdQ;j1VcjC2Y[CN2
+w1648738734
+FE:/Semester 6/DSD/halfadder1/4bitadder.v
+L0 14
+OE;L;5.7f;17
+r1
+31
+o-work work
+vhalfadder2
+IX^BQTm7U:Cd7d7zJR=aUY2
+VEn_4=B3OPZF2gk[oU81l@3
+w1648491523
+FC:/Modeltech_5.7f/examples/full adder.v
+L0 8
+OE;L;5.7f;17
+r1
+31
+o-work work
+vJhonson_Counter
+I:0m]_]_lK]5nKUn=3f=T82
+VFFzJFa^d0dbzEn[]Mz9II2
+w1650402445
+FC:/Users/Dell/Downloads/Johnson_Counter.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@jhonson_@counter
+vJohnson_Counter
+IFF<Q29>0^oO8jQXmGQPZi3
+V2AM:fVizW6dz^TSkWYa_b3
+w1650403830
+FC:/Users/Dell/Downloads/Johnson_Counter.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@johnson_@counter
+vJS_Counter
+I0=DA45hTV4;=OZ4DP<X1P3
+VzB7[A<<dLYbCHPn;Qm7FV2
+w1650401296
+FE:/Semester 6/DSD/halfadder1/Johnson_Counter_1743.v
+L0 2
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@j@s_@counter
+vRCA
+IdhW^7g[kNaG5<?YCGn2nH0
+V_AkU_jkLTCC0Pj>Mh@YAl0
+w1648836848
+FE:/Semester 6/DSD/halfadder1/rippleadder.v
+L0 24
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@r@c@a
+vripple_adder
+IbF`o_XVBQJGNADOeU0_bN1
+V]Xg6AZOPHYz09KG`m?jlj3
+w1648702209
+FE:/Semester 6/DSD/halfadder1/rippleadder.v
+L0 34
+OE;L;5.7f;17
+r1
+31
+o-work work
+vripple_adder_4bit
+IcRLJ1z3_6FPnjS5LVaHF:3
+Ve:oP<XJ9SL90zHj0m<lZ22
+w1648837165
+FE:/Semester 6/DSD/halfadder1/example.v
+L0 18
+OE;L;5.7f;17
+r1
+31
+o-work work
+vrippleaddder
+I4BzTQNgl<7DF63dgHR?Eb3
+VQ6b?;fQDb1Um0ckM@aUdN1
+w1648738734
+FE:/Semester 6/DSD/halfadder1/4bitadder.v
+L0 31
+OE;L;5.7f;17
+r1
+31
+o-work work
+vrippleadder
+I;^z76OcNi:zF76@J5ojCS2
+V??a09fWM_z9OhiSl7HM?E0
+w1648838627
+FE:/Semester 6/DSD/halfadder1/4bitrippleadder.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+vstim_FA
+ITL7Ahi:fP26_OiO;RN=gz2
+V`HfNHo3B4k]z5B_aV<g5j3
+w1648492084
+FC:/Modeltech_5.7f/examples/full adder.v
+L0 18
+OE;L;5.7f;17
+r1
+31
+o-work work
+nstim_@f@a
+vstim_RCA
+I?7bm42X`BT;f=UAl[N<Wh0
+VQ0jlbOXeV7IbC>kb;7eTD1
+w1648836848
+FE:/Semester 6/DSD/halfadder1/rippleadder.v
+L0 37
+OE;L;5.7f;17
+r1
+31
+o-work work
+nstim_@r@c@a
+vstim_ripple
+I;S1W=RCRckEmD5CmfS3SB3
+VS0dHV^KMMHX8JXg]JiMZ93
+w1648838627
+FE:/Semester 6/DSD/halfadder1/4bitrippleadder.v
+L0 9
+OE;L;5.7f;17
+r1
+31
+o-work work
+vSUM
+IZgTLXAoW_B5R<Xcf^Ib;03
+VF6e;DF2XNM^`^?CCN[8Gb1
+w1648836848
+FE:/Semester 6/DSD/halfadder1/rippleadder.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@s@u@m
+vtest_FA
+I63c3UediVPNmkVC:<Til_3
+V7TRBBV^O^Nm?[oZ1=d6WZ0
+w1648840764
+FE:/Semester 6/DSD/halfadder1/fulladder.v
+L0 17
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntest_@f@a
+vtest_FA1
+I[N5eZhU1UciUflLzW1g[P3
+VNJQo^1ZV<nWmn;adZj6NY1
+w1648481914
+FE:/Semester 6/DSD/full adder2/test_FA1.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntest_@f@a1
+vtest_HA
+IZ5i:SfOZJe1lEB736o`Z92
+VV7YJ2O24XfJO5IKK6@LFg1
+w1648293180
+FE:/Semester 6/DSD/halfadder1/test_HA.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntest_@h@a
+vtest_HA1
+IC26X;A@9CgKicCObcQ4oM1
+V?T?Wf8L1hMhM78>Hj<Y6k0
+w1648483062
+FE:/Semester 6/DSD/halfadder1/test_HA1.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntest_@h@a1
+vtest_HA2
+IIfJD6W?^h3KfmFXl89hzb1
+VHMZAL7zf8XJ850z1UgPo`0
+w1648484087
+FE:/Semester 6/DSD/halfadder2/test_HA2.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntest_@h@a2
+vtest_Johnson
+I=n2k<W>ild3ScbhG7TFWC1
+VE^J>=]50?WXJdlAWMPKn=2
+w1650402436
+FC:/Users/Dell/Downloads/test_Johnson.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntest_@johnson
+vtest_ripple_adder_4bit
+IoOFg`UfTP>N=Wo3oTl9^<1
+V7m;6lcX64a]kkJ9VbMXD03
+w1648837165
+FE:/Semester 6/DSD/halfadder1/example.v
+L0 32
+OE;L;5.7f;17
+r1
+31
+o-work work
+vtest_rippleadder
+I;R0^]ZM=TO`^4KhekmO6j1
+V0g5I1Wi[7c?jYGK0FbZKZ0
+w1648738734
+FE:/Semester 6/DSD/halfadder1/4bitadder.v
+L0 48
+OE;L;5.7f;17
+r1
+31
+o-work work
+vTop
+IJ>]kZkRK1aNBHK9eXSP8G2
+VMDn6_b[]T[7ELIjmZcWUn0
+w1650400934
+FE:/Semester 6/DSD/halfadder1/Top_1743.v
+L0 2
+OE;L;5.7f;17
+r1
+31
+o-work work
+n@top
+vtop_Johnson
+In6Q>JRQVKe_];649UcBA?1
+VYV9L206`Um?e8L@Ma:H]D2
+w1650402434
+FC:/Users/Dell/Downloads/top_Johnson.v
+L0 1
+OE;L;5.7f;17
+r1
+31
+o-work work
+ntop_@johnson

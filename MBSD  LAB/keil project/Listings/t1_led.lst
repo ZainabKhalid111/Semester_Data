@@ -1,0 +1,70 @@
+A51 MACRO ASSEMBLER  T1_LED                                                               04/20/2022 11:36:11 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.2.7.0
+OBJECT MODULE PLACED IN .\Objects\t1_led.obj
+ASSEMBLER INVOKED BY: C:\Keil_v5\C51\BIN\A51.EXE t1_led.a51 SET(SMALL) DEBUG PRINT(.\Listings\t1_led.lst) OBJECT(.\Objec
+                      ts\t1_led.obj) EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000                   1     ORG 0x00;
+0000                   2             start:
+0000 C291              3             CLR P1.1
+0002 C292              4             CLR P1.2
+0004 C2A1              5             CLR P2.1
+0006 C2A2              6             CLR P2.2
+0008 C2A3              7             CLR P2.3
+000A C2A4              8             CLR P2.4
+000C                   9             Again:
+000C D291             10             SETB P1.1
+000E D292             11             SETB P1.2
+                      12             
+0010                  13             LABEL1:
+0010 D2A1             14             SETB P2.1
+0012 D2A2             15             SETB P2.2
+0014 D2A3             16             SETB P2.3
+0016 D2A4             17             SETB P2.4
+0018 80F6             18             JMP LABEL1
+                      19             
+001A D291             20             SETB P1.1
+001C C292             21             CLR P1.2
+001E                  22             LABEL2:
+001E D2A1             23             SETB P2.1
+0020 C2A2             24             CLR P2.2
+0022 C2A3             25             CLR P2.3
+0024 C2A4             26             CLR P2.4
+0026 80F6             27             JMP LABEL2
+                      28             
+0028 D292             29             SETB P1.2
+002A C291             30             CLR P1.1
+002C                  31             LABEL3:
+002C D2A2             32             SETB P2.2
+002E C2A1             33             CLR P2.1
+0030 C2A3             34             CLR P2.3
+0032 C2A4             35             CLR P2.4
+0034 80F6             36             JMP LABEL3
+                      37             
+0036 80D4             38             SJMP Again
+                      39             END
+A51 MACRO ASSEMBLER  T1_LED                                                               04/20/2022 11:36:11 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+AGAIN. . . . . . .  C ADDR   000CH   A   
+LABEL1 . . . . . .  C ADDR   0010H   A   
+LABEL2 . . . . . .  C ADDR   001EH   A   
+LABEL3 . . . . . .  C ADDR   002CH   A   
+P1 . . . . . . . .  D ADDR   0090H   A   
+P2 . . . . . . . .  D ADDR   00A0H   A   
+START. . . . . . .  C ADDR   0000H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

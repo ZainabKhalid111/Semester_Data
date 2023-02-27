@@ -1,0 +1,15 @@
+{E:/Semester 6/DSD/ram16x8.v} {1 {vlog -work work {E:/Semester 6/DSD/ram16x8.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module RAM_16x8_ex1
+
+Top level modules:
+	RAM_16x8_ex1
+
+} {} {}} {E:/Semester 6/DSD/ram_test.v} {1 {vlog -work work {E:/Semester 6/DSD/ram_test.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module RAM_16x8_ex1_testbench
+
+Top level modules:
+	RAM_16x8_ex1_testbench
+
+} {} {}}

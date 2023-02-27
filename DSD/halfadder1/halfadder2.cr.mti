@@ -1,0 +1,29 @@
+{E:/Semester 6/DSD/halfadder2/HA2.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder2/HA2.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module HA2
+
+Top level modules:
+	HA2
+
+} {} {}} {E:/Semester 6/DSD/halfadder2/SUM.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder2/SUM.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module SUM
+
+Top level modules:
+	SUM
+
+} {} {}} {E:/Semester 6/DSD/halfadder2/CARRY.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder2/CARRY.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module CARRY
+
+Top level modules:
+	CARRY
+
+} {} {}} {E:/Semester 6/DSD/halfadder2/test_HA2.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder2/test_HA2.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module test_HA2
+
+Top level modules:
+	test_HA2
+
+} {} {}}

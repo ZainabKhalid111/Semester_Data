@@ -1,0 +1,269 @@
+{E:/Semester 6/DSD/ring counter using concatenation/rc.v} {1 {vlog -work work {E:/Semester 6/DSD/ring counter using concatenation/rc.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module rc
+
+Top level modules:
+	rc
+
+} {} {}} {E:/Semester 6/DSD/asyn ripple down counter/top.v} {1 {vlog -work work {E:/Semester 6/DSD/asyn ripple down counter/top.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {E:/Semester 6/DSD/asyn ripple up counter/T_FF.v} {1 {vlog -work work {E:/Semester 6/DSD/asyn ripple up counter/T_FF.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module T_FF
+
+Top level modules:
+	T_FF
+
+} {} {}} {E:/Semester 6/DSD/asyn ripple up counter/D_FF.v} {1 {vlog -work work {E:/Semester 6/DSD/asyn ripple up counter/D_FF.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module D_FF
+
+Top level modules:
+	D_FF
+
+} {} {}} {E:/Semester 6/DSD/syn down counter/counter_dn.v} {1 {vlog -work work {E:/Semester 6/DSD/syn down counter/counter_dn.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module counter_dn
+
+Top level modules:
+	counter_dn
+
+} {} {}} {E:/Semester 6/DSD/ring counter using concatenation/top_rc.v} {1 {vlog -work work {E:/Semester 6/DSD/ring counter using concatenation/top_rc.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module top_rc
+
+Top level modules:
+	top_rc
+
+} {} {}} {E:/Semester 6/DSD/syn down counter/top_counter.v} {1 {vlog -work work {E:/Semester 6/DSD/syn down counter/top_counter.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module top_counter
+
+Top level modules:
+	top_counter
+
+} {} {}} C:/Users/Dell/Downloads/top_Johnson.v {1 {vlog -work work C:/Users/Dell/Downloads/top_Johnson.v
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module top_Johnson
+
+Top level modules:
+	top_Johnson
+
+} {} {}} C:/Users/Dell/Downloads/BCD.v {1 {vlog -work work C:/Users/Dell/Downloads/BCD.v
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module BCD
+
+Top level modules:
+	BCD
+
+} {} {}} {E:/Semester 6/DSD/asyn ripple down counter/stimulus.v} {1 {vlog -work work {E:/Semester 6/DSD/asyn ripple down counter/stimulus.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} C:/Users/Dell/Downloads/BCD_top_level.v {1 {vlog -work work C:/Users/Dell/Downloads/BCD_top_level.v
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module BCD_top_level
+
+Top level modules:
+	BCD_top_level
+
+} {} {}} {E:/Semester 6/DSD/task1.v} {1 {vlog -work work {E:/Semester 6/DSD/task1.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module halfadder
+-- Compiling module fulladder
+-- Compiling module test_bench
+
+Top level modules:
+	test_bench
+
+} {} {}} {E:/Semester 6/DSD/muxes/4x1/mux41.v} {1 {vlog -work work {E:/Semester 6/DSD/muxes/4x1/mux41.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module mux41
+
+Top level modules:
+	mux41
+
+} {} {}} {E:/Semester 6/DSD/muxes/4x1 using 2x1/test_mux41.v} {1 {vlog -work work {E:/Semester 6/DSD/muxes/4x1 using 2x1/test_mux41.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module test_mux41
+
+Top level modules:
+	test_mux41
+
+} {} {}} {E:/Semester 6/DSD/muxes/4x1 using 2x1/top_l.v} {1 {vlog -work work {E:/Semester 6/DSD/muxes/4x1 using 2x1/top_l.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module top_l
+
+Top level modules:
+	top_l
+
+} {} {}} {E:/Semester 6/DSD/muxes/2x1/top_level.v} {1 {vlog -work work {E:/Semester 6/DSD/muxes/2x1/top_level.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module top_level
+
+Top level modules:
+	top_level
+
+} {} {}} {E:/Semester 6/DSD/asyn ripple up counter/ripple_counter.v} {1 {vlog -work work {E:/Semester 6/DSD/asyn ripple up counter/ripple_counter.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module ripple_counter
+
+Top level modules:
+	ripple_counter
+
+} {} {}} {E:/Semester 6/DSD/syn neg edge/stimulus.v} {1 {vlog -work work {E:/Semester 6/DSD/syn neg edge/stimulus.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} {E:/Semester 6/DSD/syn down counter/stimulus.v} {1 {vlog -work work {E:/Semester 6/DSD/syn down counter/stimulus.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} {E:/Semester 6/DSD/ring counter using concatenation/test_rc.v} {1 {vlog -work work {E:/Semester 6/DSD/ring counter using concatenation/test_rc.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module test_rc
+
+Top level modules:
+	test_rc
+
+} {} {}} C:/Users/Dell/Downloads/test_Johnson.v {1 {vlog -work work C:/Users/Dell/Downloads/test_Johnson.v
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module test_Johnson
+
+Top level modules:
+	test_Johnson
+
+} {} {}} C:/Users/Dell/Downloads/Johnson_Counter.v {1 {vlog -work work C:/Users/Dell/Downloads/Johnson_Counter.v
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Johnson_Counter
+
+Top level modules:
+	Johnson_Counter
+
+} {} {}} {E:/Semester 6/DSD/ring counter using shift opr/test_rc.v} {1 {vlog -work work {E:/Semester 6/DSD/ring counter using shift opr/test_rc.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module test_rc
+
+Top level modules:
+	test_rc
+
+} {} {}} {E:/Semester 6/DSD/asyn ripple up counter/stimulus.v} {1 {vlog -work work {E:/Semester 6/DSD/asyn ripple up counter/stimulus.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} {E:/Semester 6/DSD/ring counter using shift opr/rc.v} {1 {vlog -work work {E:/Semester 6/DSD/ring counter using shift opr/rc.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module rc
+
+Top level modules:
+	rc
+
+} {} {}} C:/Users/Dell/Downloads/three_BCD_test.v {1 {vlog -work work C:/Users/Dell/Downloads/three_BCD_test.v
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module three_BCD_test
+
+Top level modules:
+	three_BCD_test
+
+} {} {}} {E:/Semester 6/DSD/syn neg edge/top_counter.v} {1 {vlog -work work {E:/Semester 6/DSD/syn neg edge/top_counter.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module top_counter
+
+Top level modules:
+	top_counter
+
+} {} {}} C:/Users/Dell/Downloads/BCD_test.v {1 {vlog -work work C:/Users/Dell/Downloads/BCD_test.v
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module BCD_test
+
+Top level modules:
+	BCD_test
+
+} {} {}} C:/Users/Dell/Downloads/three_BCD.v {1 {vlog -work work C:/Users/Dell/Downloads/three_BCD.v
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module three_BCD
+
+Top level modules:
+	three_BCD
+
+} {} {}} {E:/Semester 6/DSD/asyn ripple down counter/top (1).v} {1 {vlog -work work {E:/Semester 6/DSD/asyn ripple down counter/top (1).v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {E:/Semester 6/DSD/ring counter using shift opr/top_rc.v} {1 {vlog -work work {E:/Semester 6/DSD/ring counter using shift opr/top_rc.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module top_rc
+
+Top level modules:
+	top_rc
+
+} {} {}} C:/Users/Dell/Downloads/three_BCD_top_level.v {1 {vlog -work work C:/Users/Dell/Downloads/three_BCD_top_level.v
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module three_BCD_top_level
+
+Top level modules:
+	three_BCD_top_level
+
+} {} {}} {E:/Semester 6/DSD/muxes/4x1/top_l.v} {1 {vlog -work work {E:/Semester 6/DSD/muxes/4x1/top_l.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module top_l
+
+Top level modules:
+	top_l
+
+} {} {}} {E:/Semester 6/DSD/muxes/4x1 using 2x1/mux21.v} {1 {vlog -work work {E:/Semester 6/DSD/muxes/4x1 using 2x1/mux21.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module mux21
+
+Top level modules:
+	mux21
+
+} {} {}} {E:/Semester 6/DSD/syn neg edge/counter_up.v} {1 {vlog -work work {E:/Semester 6/DSD/syn neg edge/counter_up.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module counter_up
+
+Top level modules:
+	counter_up
+
+} {} {}} {E:/Semester 6/DSD/asyn ripple down counter/T_FF.v} {1 {vlog -work work {E:/Semester 6/DSD/asyn ripple down counter/T_FF.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module T_FF
+
+Top level modules:
+	T_FF
+
+} {} {}} {E:/Semester 6/DSD/muxes/4x1 using 2x1/mux41.v} {1 {vlog -work work {E:/Semester 6/DSD/muxes/4x1 using 2x1/mux41.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module mux41
+
+Top level modules:
+	mux41
+
+} {} {}} {E:/Semester 6/DSD/asyn ripple up counter/top.v} {1 {vlog -work work {E:/Semester 6/DSD/asyn ripple up counter/top.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}}

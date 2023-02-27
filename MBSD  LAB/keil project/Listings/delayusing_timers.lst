@@ -1,0 +1,49 @@
+A51 MACRO ASSEMBLER  DELAYUSING_TIMERS                                                    05/25/2022 12:48:04 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.2.7.0
+OBJECT MODULE PLACED IN .\Objects\delayusing_timers.obj
+ASSEMBLER INVOKED BY: C:\Keil_v5\C51\BIN\A51.EXE delayusing_timers.a51 SET(SMALL) DEBUG PRINT(.\Listings\delayusing_time
+                      rs.lst) OBJECT(.\Objects\delayusing_timers.obj) EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000                   1     ORG 00H
+0000 758901            2     MOV TMOD,#01H
+0003 D290              3     Again:SETB P1.0
+0005 110D              4     ACALL Delay
+0007 C290              5     CLR P1.0
+0009 110D              6     ACALL Delay
+000B 80F6              7     SJMP Again
+                       8     
+000D 758A18            9     Delay : MOV TL0,#18H
+0010 758CFC           10                     MOV TH0,#0FCH
+0013 D28C             11                     SETB TR0
+0015 308DFD           12                     Back: JNB TF0,Back
+0018 C28C             13                     CLR TR0
+001A C28D             14                     CLR TF0
+001C 22               15                     RET
+                      16     END
+A51 MACRO ASSEMBLER  DELAYUSING_TIMERS                                                    05/25/2022 12:48:04 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+AGAIN. . . . . . .  C ADDR   0003H   A   
+BACK . . . . . . .  C ADDR   0015H   A   
+DELAY. . . . . . .  C ADDR   000DH   A   
+P1 . . . . . . . .  D ADDR   0090H   A   
+TF0. . . . . . . .  B ADDR   0088H.5 A   
+TH0. . . . . . . .  D ADDR   008CH   A   
+TL0. . . . . . . .  D ADDR   008AH   A   
+TMOD . . . . . . .  D ADDR   0089H   A   
+TR0. . . . . . . .  B ADDR   0088H.4 A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  0 WARNING(S), 0 ERROR(S)

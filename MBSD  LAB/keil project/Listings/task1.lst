@@ -1,0 +1,75 @@
+A51 MACRO ASSEMBLER  TASK1                                                                08/03/2022 17:30:50 PAGE     1
+
+
+MACRO ASSEMBLER A51 V8.2.7.0
+OBJECT MODULE PLACED IN C:\Keil_v5\C51\Examples\HELLO\task1.obj
+ASSEMBLER INVOKED BY: C:\Keil_v5\C51\BIN\A51.EXE task1.a51 SET(SMALL) DEBUG PRINT(.\Listings\task1.lst) OBJECT(C:\Keil_v
+                      5\C51\Examples\HELLO\task1.obj) EP
+
+LOC  OBJ            LINE     SOURCE
+
+0000                   1     ORG 00H
+0000 7580FF            2             MOV P0,#0FFH
+0003 758001            3             BACK:MOV P0,#01H
+0006 1155              4             ACALL DELAY      
+                       5             
+                       6             
+                       7             
+                       8             
+0008 758001            9             MOV P0,#01H
+000B 1155             10             ACALL DELAY
+000D 758002           11             MOV P0,#02H
+0010 1155             12             ACALL DELAY
+0012 758004           13             MOV P0,#04H
+0015 1155             14             ACALL DELAY
+0017 758008           15             MOV P0,#08H
+001A 1155             16             ACALL DELAY
+001C 758010           17             MOV P0,#10H
+001F 1155             18             ACALL DELAY
+0021 758020           19             MOV P0,#20H
+0024 1155             20             ACALL DELAY
+0026 758040           21             MOV P0,#40H
+0029 1155             22             ACALL DELAY
+002B 758080           23             MOV P0,#80H
+002E 1155             24             ACALL DELAY
+0030 758040           25             MOV P0,#40H
+0033 1155             26             ACALL DELAY
+0035 758020           27             MOV P0,#20H
+0038 1155             28             ACALL DELAY
+003A 758010           29             MOV P0,#10H
+003D 1155             30             ACALL DELAY
+003F 758008           31             MOV P0,#08H
+0042 1155             32             ACALL DELAY
+0044 758004           33             MOV P0,#04H
+0047 1155             34             ACALL DELAY
+0049 758002           35             MOV P0,#02H
+004C 1155             36             ACALL DELAY
+004E 758001           37             MOV P0,#01H
+0051 1155             38             ACALL DELAY
+0053 80AE             39             SJMP BACK
+0055                  40             DELAY:
+0055 7955             41             MOV R1,#255H
+*** _________________________________________^
+*** WARNING #A52 IN 41 (task1.a51, LINE 41): VALUE HAS BEEN TRUNCATED TO 8 BITS
+0057 D9FE             42             HERE:DJNZ R1,HERE
+0059 22               43             RET
+                      44             END
+                                     
+A51 MACRO ASSEMBLER  TASK1                                                                08/03/2022 17:30:50 PAGE     2
+
+SYMBOL TABLE LISTING
+------ ----- -------
+
+
+N A M E             T Y P E  V A L U E   ATTRIBUTES
+
+BACK . . . . . . .  C ADDR   0003H   A   
+DELAY. . . . . . .  C ADDR   0055H   A   
+HERE . . . . . . .  C ADDR   0057H   A   
+P0 . . . . . . . .  D ADDR   0080H   A   
+
+
+REGISTER BANK(S) USED: 0 
+
+
+ASSEMBLY COMPLETE.  1 WARNING(S), 0 ERROR(S)

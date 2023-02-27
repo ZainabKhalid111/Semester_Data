@@ -1,0 +1,13 @@
+{E:/Semester 6/DSD/half adder.v} {0 {vlog -work work {E:/Semester 6/DSD/half adder.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module halfadd
+-- Compiling module fulladd
+-- Compiling module rippleadder
+-- Compiling module test_bench
+-- Compiling module ADD16
+-- Compiling module Mazzay
+** Error: E:/Semester 6/DSD/half adder.v(82): near "#":  expecting: IDENT
+** Error: E:/Semester 6/DSD/half adder.v(86): near "=":  expecting: IDENT
+** Error: E:/Semester 6/DSD/half adder.v(89): near "=":  expecting: IDENT
+
+} {9.0 12.0} {}}

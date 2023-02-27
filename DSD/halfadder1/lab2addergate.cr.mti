@@ -1,0 +1,94 @@
+{E:/Semester 6/DSD/halfadder1/example.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder1/example.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module half_adder
+-- Compiling module full_adder
+-- Compiling module ripple_adder_4bit
+-- Compiling module test_ripple_adder_4bit
+
+Top level modules:
+	test_ripple_adder_4bit
+
+} {} {}} {E:/Semester 6/DSD/halfadder1/rippleadder.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder1/rippleadder.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module SUM
+-- Compiling module CARRY
+-- Compiling module FA1
+-- Compiling module RCA
+-- Compiling module stim_RCA
+
+Top level modules:
+	stim_RCA
+
+} {} {}} {E:/Semester 6/DSD/full adder1/SUM.v} {1 {vlog -work work {E:/Semester 6/DSD/full adder1/SUM.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module SUM
+
+Top level modules:
+	SUM
+
+} {} {}} {E:/Semester 6/DSD/full adder1/CARRY.v} {1 {vlog -work work {E:/Semester 6/DSD/full adder1/CARRY.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module CARRY
+
+Top level modules:
+	CARRY
+
+} {} {}} {E:/Semester 6/DSD/halfadder2/CARRY.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder2/CARRY.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module CARRY
+
+Top level modules:
+	CARRY
+
+} {} {}} {E:/Semester 6/DSD/halfadder2/SUM.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder2/SUM.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module SUM
+
+Top level modules:
+	SUM
+
+} {} {}} {E:/Semester 6/DSD/halfadder1/4bitrippleadder.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder1/4bitrippleadder.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module rippleadder
+-- Compiling module stim_ripple
+
+Top level modules:
+	stim_ripple
+
+} {} {}} {E:/Semester 6/DSD/full adder1/HA2.v} {1 {vlog -work work {E:/Semester 6/DSD/full adder1/HA2.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module HA2
+
+Top level modules:
+	HA2
+
+} {} {}} {E:/Semester 6/DSD/full adder1/FA.v} {1 {vlog -work work {E:/Semester 6/DSD/full adder1/FA.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} {E:/Semester 6/DSD/halfadder1/4bitadder.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder1/4bitadder.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module SUM
+-- Compiling module CARRY
+-- Compiling module halfadder1
+-- Compiling module fulladder
+-- Compiling module rippleaddder
+-- Compiling module test_rippleadder
+
+Top level modules:
+	fulladder
+	test_rippleadder
+
+} {} {}} {E:/Semester 6/DSD/halfadder1/fulladder.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder1/fulladder.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module half_adder
+-- Compiling module full_adder
+-- Compiling module test_FA
+
+Top level modules:
+	test_FA
+
+} {} {}}

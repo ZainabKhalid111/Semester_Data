@@ -1,0 +1,36 @@
+{E:/Semester 6/DSD/halfadder1/Johnson_Counter_1743.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder1/Johnson_Counter_1743.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module JS_Counter
+
+Top level modules:
+	JS_Counter
+
+} {} {}} {E:/Semester 6/DSD/halfadder1/Dec_4x16_1743.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder1/Dec_4x16_1743.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Dec_4x16
+
+Top level modules:
+	Dec_4x16
+
+} {} {}} {E:/Semester 6/DSD/halfadder1/Top_test_1743.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder1/Top_test_1743.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module combine_test
+
+Top level modules:
+	combine_test
+
+} {} {}} {E:/Semester 6/DSD/halfadder1/DFF_1743.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder1/DFF_1743.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module DFF
+
+Top level modules:
+	DFF
+
+} {} {}} {E:/Semester 6/DSD/halfadder1/combine_1743.v} {1 {vlog -work work {E:/Semester 6/DSD/halfadder1/combine_1743.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module combine
+
+Top level modules:
+	combine
+
+} {} {}}
